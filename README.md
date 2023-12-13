@@ -1,10 +1,6 @@
-https://hamlirii.github.io/brief2/- 👋 Hi, I’m @Hamlirii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Bienvenue sur mon profil GitHub! 👋
 
-<!---
-Hamlirii/Hamlirii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Actuellement en train d'apprendre et de travailler sur des projets intéressants.
+
+💻 Compétences : HTML, CSS, JavaScript,Php
+Happy coding! 🚀
